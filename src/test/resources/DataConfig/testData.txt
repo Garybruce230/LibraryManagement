@@ -1,0 +1,67 @@
+{
+  "TestOne": {
+    "username": "admin1",
+    "password": "securePassword",
+    "title": "Taylor Swift biography",
+    "author": "Taylor swift",
+    "genre": "Biography",
+    "iSBN": "9780694005011",
+    "publicationDate": "01/01/2024",
+    "price": "101.11"
+  },
+  "TestTwo": {
+    "username": "admin1",
+    "password": "securePassword",
+    "title": "Taylor Swift biography -2",
+    "author": "Taylor swift",
+    "genre": "Biography",
+    "iSBN": "9780694005012",
+    "publicationDate": "01/01/2024",
+    "price": "101.11"
+  },
+  "TestThree": {
+    "username": "admin1",
+    "password": "securePassword",
+    "title": "Taylor Swift biography-3",
+    "author": "Taylor swift",
+    "genre": "Biography",
+    "iSBN": "9780694005013",
+    "publicationDate": "01/01/2024",
+    "price": "101.11"
+  },
+  "TestFour": {
+    "username": "admin1",
+    "password": "securePassword",
+    "title": "Taylor Swift biography -4",
+    "author": "Taylor swift",
+    "genre": "Biography",
+    "iSBN": "9780694005015",
+    "publicationDate": "01/01/2024",
+    "price": "101.11"
+  },
+  "TestInvalidUser": {
+    "username": "invaliduser",
+    "password": "securePassword"
+  },
+  "TestInvalidPassword": {
+  "username": "admin1",
+  "password": "inavlidPassword"
+}
+  ,
+  "TestInavlidUserPassword": {
+    "username": "admin1",
+    "password": "inavlidPassword"
+  },
+  "TestMissingUserId": {
+  "username": "",
+  "password": "invalidPassword"
+},
+  "TestMissingPassword": {
+    "username": "invalidUser",
+    "password": ""
+  },
+  "TestMissingUserPassword": {
+    "username": "",
+    "password": ""
+  }
+}
